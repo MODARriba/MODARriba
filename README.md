@@ -8,17 +8,12 @@
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
+I am an **Applied AI & NLP Engineer** specializing in healthcare natural language processing, domain-specific transformer fine-tuning, and multilingual language models for low-resource languages.
 
-I'm an **AI/ML enthusiast and developer** interested in understanding how intelligent systems learn, reason, and interact with the world.
-
-My current focus is building a strong foundation in **Python, machine learning, deep learning, and NLP** through hands-on projects.
-
-- 🤖 **AI/ML:** Learning and experimenting with machine learning, deep learning, and transformer-based models.
-- 🧠 **NLP:** Built **ClaimCheck AI**, a health misinformation classification system using BioBERT, PubMedBERT, and traditional ML approaches.
-- 🔬 **Curiosity:** Particularly fascinated by neural networks, biological intelligence, and the connection between computation and the human brain.
-- 🚀 **Exploring:** Currently exploring **AI/ML, IoT, cybersecurity, and game development** to discover where my interests fit best.
-- 🛠️ **Learning by Building:** I prefer understanding concepts by implementing them, experimenting, breaking things, and figuring out why they work.
+- 🏥 **Flagship System**: Engineered **ClaimCheck AI**, an end-to-end clinical misinformation detection platform fine-tuning **PubMedBERT** and **BioBERT** with a consensus ensembling engine (**75.63% test accuracy**, **79.89% precision**).
+- 🌐 **Next-Gen Indic AI**: Currently building cross-lingual fact-checking pipelines across regional Indian languages (Hindi, Assamese, Manipuri, Bodo) leveraging **IndicTrans2 (AI4Bharat)** and **Sarvam AI**.
+- ⚡ **Engineering Focus**: Clinical decision support, precision-recall optimization for safety-critical triage, 8-bucket behavioral failure profiling, and containerized cloud microservices.
 
 ---
 
@@ -26,73 +21,46 @@ My current focus is building a strong foundation in **Python, machine learning, 
 
 | Project | Highlights | Links |
 |:---|:---|:---:|
-| **ClaimCheck AI** | NLP-based health misinformation classification system comparing BioBERT, PubMedBERT, and a TF-IDF + Logistic Regression baseline. | [🌐 Live App](https://modear-healthclaimbert.hf.space/) • [📂 GitHub](https://github.com/MODARriba/HealthMisinformation-NLP) |
-| **Darkness Within** | 3D first-person survival horror game built with Unity and C#, featuring enemy AI, combat, weapons, health, and flashlight systems. | 🎮 Game Development Project |
-| **The Impossible Cube Rush** | Unity/C# arcade game focused on player movement, obstacles, level progression, collision detection, and gameplay systems. | 🎮 Game Development Project |
+| **ClaimCheck AI** | Production biomedical NLP system benchmarking PubMedBERT, BioBERT, and statistical baselines across 12,300+ health claims with sub-second inference. | [🌐 Live App](https://modear-healthclaimbert.hf.space/) &bull; [📂 GitHub](https://github.com/MODARriba/HealthMisinformation-NLP) |
+| **Indic Multilingual Verification** | Cross-lingual NLP pipeline evaluating health claims in low-resource regional Indian languages using **Sarvam AI (`sarvam-2b`)** and **IndicTrans2**. | [📂 Pipeline](https://github.com/MODARriba/HealthMisinformation-NLP) |
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Arsenal
 
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-
-**AI / ML**
-
+**Deep Learning & NLP**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Data**
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-**NLP**
-
-![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-000000?style=flat-square)
-
-**Development & Deployment**
-
+**Deployment & Cloud Infrastructure**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python%203.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
-**Game Development**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🔭 What I'm Exploring
+### 📊 GitHub Telemetry
 
-```text
-AI / Machine Learning
-        │
-        ├── Deep Learning
-        ├── NLP & Transformers
-        ├── Computer Vision
-        └── Reinforcement Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MODARriba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Modar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MODARriba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-IoT
-        │
-        ├── Embedded Systems
-        ├── Sensors
-        └── Intelligent Devices
+---
 
-Cybersecurity
-        │
-        ├── Network Security
-        └── Security Fundamentals
-
-Game Development
-        │
-        └── Unity / C#
+### 📬 Connect with Me
+- 🌐 **Hugging Face**: [@ModeAR](https://huggingface.co/ModeAR)
+- 💻 **GitHub**: [@MODARriba](https://github.com/MODARriba)
+- 📧 **Email**: [ribamodar@gmail.com](mailto:ribamodar@gmail.com)
