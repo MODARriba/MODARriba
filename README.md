@@ -1,66 +1,42 @@
-# Hi there, I'm Modar Riba 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Modar%20Riba&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20IoT&descAlignY=60&descAlign=50" width="100%"/>
 
-<p align="left">
-  <a href="https://modear-healthclaimbert.hf.space/"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-ClaimCheck%20AI-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://huggingface.co/ModeAR"><img src="https://img.shields.io/badge/🤗%20HuggingFace-ModeAR-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <a href="mailto:ribamodar@gmail.com"><img src="https://img.shields.io/badge/✉️%20Contact-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+  <a href="https://github.com/MODARriba">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Exploring+AI+%26+Machine+Learning;Learning+Deep+Learning+%26+NLP;Building+AI+Projects+Through+Hands-On+Experimentation;Exploring+IoT+%26+Intelligent+Systems" alt="Typing SVG" />
+  </a>
 
----
-
-### 🚀 About Me
-I am an **Applied AI & NLP Engineer** specializing in healthcare natural language processing, domain-specific transformer fine-tuning, and multilingual language models for low-resource languages.
-
-- 🏥 **Flagship System**: Engineered **ClaimCheck AI**, an end-to-end clinical misinformation detection platform fine-tuning **PubMedBERT** and **BioBERT** with a consensus ensembling engine (**75.63% test accuracy**, **79.89% precision**).
-- 🌐 **Next-Gen Indic AI**: Currently building cross-lingual fact-checking pipelines across regional Indian languages (Hindi, Assamese, Manipuri, Bodo) leveraging **IndicTrans2 (AI4Bharat)** and **Sarvam AI**.
-- ⚡ **Engineering Focus**: Clinical decision support, precision-recall optimization for safety-critical triage, 8-bucket behavioral failure profiling, and containerized cloud microservices.
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MODARriba&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+    <a href="https://huggingface.co/ModeAR"><img src="https://img.shields.io/badge/🤗%20HuggingFace-ModeAR-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
+    <a href="mailto:ribamodar@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-ribamodar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 🌟 Featured Work
+### 👨‍💻 About Me
 
-| Project | Highlights | Links |
-|:---|:---|:---:|
-| **ClaimCheck AI** | Production biomedical NLP system benchmarking PubMedBERT, BioBERT, and statistical baselines across 12,300+ health claims with sub-second inference. | [🌐 Live App](https://modear-healthclaimbert.hf.space/) &bull; [📂 GitHub](https://github.com/MODARriba/HealthMisinformation-NLP) |
-| **Indic Multilingual Verification** | Cross-lingual NLP pipeline evaluating health claims in low-resource regional Indian languages using **Sarvam AI (`sarvam-2b`)** and **IndicTrans2**. | [📂 Pipeline](https://github.com/MODARriba/HealthMisinformation-NLP) |
+I am an **AI/ML enthusiast and developer** interested in understanding how intelligent systems learn, adapt, and interact with the world.
 
----
-
-### 🛠️ Technical Arsenal
-
-**Deep Learning & NLP**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Deployment & Cloud Infrastructure**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/Python%203.10+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- 🧠 **AI/ML:** Building a strong foundation in machine learning, deep learning, and neural networks through hands-on projects and experimentation.
+- 💬 **NLP:** Exploring natural language processing and transformer-based models, with hands-on experience building text classification systems using BERT-based models.
+- 🔬 **Curiosity:** Fascinated by neural networks, biological intelligence, and how computational models can learn patterns from data.
+- 🤖 **IoT:** Exploring sensors, embedded systems, connected devices, and how intelligent systems can interact with the physical world.
+- 🛠️ **Learning by Building:** I learn by implementing concepts, experimenting with different approaches, breaking things, and understanding why they work.
 
 ---
 
-### 📊 GitHub Telemetry
+### 🎯 Core Focus Areas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MODARriba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Modar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MODARriba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Connect with Me
-- 🌐 **Hugging Face**: [@ModeAR](https://huggingface.co/ModeAR)
-- 💻 **GitHub**: [@MODARriba](https://github.com/MODARriba)
-- 📧 **Email**: [ribamodar@gmail.com](mailto:ribamodar@gmail.com)
+```text
+┌───────────────────────────────┬───────────────────────────────┐
+│  🧠 AI & Machine Learning     │  🤖 IoT & Embedded Systems    │
+│  Machine learning, deep       │  Sensors, connected devices, │
+│  learning, neural networks,   │  embedded systems, and       │
+│  and model experimentation.   │  physical-world interaction.  │
+├───────────────────────────────┼───────────────────────────────┤
+│  💬 NLP & Transformers        │  🔬 Intelligent Systems       │
+│  Natural language processing, │  Exploring how AI and        │
+│  BERT-based models, and       │  computational systems can   │
+│  transformer architectures.   │  learn, adapt, and respond.  │
+└───────────────────────────────┴───────────────────────────────┘
